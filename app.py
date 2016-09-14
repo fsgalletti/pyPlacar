@@ -6,14 +6,6 @@ import requests
 
 app = Flask(__name__)
 
-@app.route('/')
-def index():
-	return render_template('index.html')
-
-@app.route('/new')
-def new_value():
-   return render_template('new_value.html')
-
 @app.route('/futebol')
 def futebol():
 	html = Markup(start());
