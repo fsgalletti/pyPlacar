@@ -4,7 +4,7 @@ Pode ser usado principalmente para estudos com a linguagem Python, framework Fla
 
 Instale em seu ambiente o Python 2.7, o Flask e as seguintes bibliotecas com seus respectivos comandos:
 
-sudo apt-get instapp python-lxml
+sudo apt-get instapp python-lxml<br>
 sudo apt-get instapp requests
 
 Para rodar, você pode executar o comando <b>python app.py</b> e ele irá criar um webserver na porta 80, com o app disponível.
