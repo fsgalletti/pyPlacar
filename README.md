@@ -18,7 +18,7 @@ Exemplo: Retornar jogos do Vasco na tabela da série B:
 <b>buscarResultados('brasileirao-serie-b', 'Vasco')</b>
 
 Para consultar o link dos torneios de futebol disponíveis, acesse a área de futebol do respectivo site e veja no link o nome do campeonato.
-Algumas opções:
+Algumas opções:<br>
 <b>brasileirao-serie-a<br>
 brasileirao-serie-b<br>
 brasileirao-serie-c<br>
